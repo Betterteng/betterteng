@@ -1,5 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shinan :)
-<h5>I'm a father, husband and passionate Web & iOS Developer.</h5>
+<h3>I'm a father, husband and passionate Web & iOS Developer.</h3>
 
 ### 🧐 About Me 😎
 
