@@ -1,7 +1,7 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shinan :)
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shinan :)
 <h5>I'm a father, husband and passionate Web & iOS Developer.</h5>
 
-## 🧐 About Me 😎
+### 🧐 About Me 😎
 
 - 💪🏼 I’m currently working on **Finding a new job**
 
@@ -15,7 +15,7 @@
 
 - ⛺️ Fun fact **I'm also a Photographer / YouTuber / CD Collector / Businessman**
 
-## 🚀 Languages and Tools:
+### 🚀 Languages and Tools:
 
 <p> 
     <a href="https://icons8.com/icon/GPfHz0SM85FX/java"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/></a>
