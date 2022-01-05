@@ -7,7 +7,7 @@
 
 - 📚 I’m currently learning **Next.JS & Jest**
 
-- 👓 I’m looking to collaborate on **Front-End OpenSource Projects**
+- 👓 I’m looking to collaborate on **OpenSource Front-End Projects**
 
 - ‍🙇🏼‍♂️ I'm looking for help with **AWS**
 
