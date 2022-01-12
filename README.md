@@ -3,17 +3,17 @@
 
 ### 🧐 About Me 😎
 
-- 💪🏼 I’m currently working on **Finding a new job**
+- 💪🏼  I’m currently working on **Finding a new job**
 
-- 📚 I’m currently learning **Next.JS & Jest**
+- 📚  I’m currently learning **Next.JS & Jest**
 
-- 👓 I’m looking to collaborate on **OpenSource Front-End Projects**
+- 👓  I’m looking to collaborate on **OpenSource Front-End Projects**
 
-- ‍🙇🏼‍♂️ I'm looking for help with **AWS**
+- ‍🙇🏼‍♂️  I'm looking for help with **AWS**
 
-- 📧 How to reach me **oscar.shinan.teng@gmail.com**
+- 📧  How to reach me **oscar.shinan.teng@gmail.com**
 
-- ⛺️ Fun fact **I'm also a Photographer / YouTuber / CD Collector / Businessman**
+- ⛺️  Fun fact **I'm also a Photographer / YouTuber / CD Collector / Businessman**
 
 ### 🚀 Languages and Tools:
 
