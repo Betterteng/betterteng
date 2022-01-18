@@ -13,7 +13,7 @@
 
 - 📧  How to reach me **oscar.shinan.teng@gmail.com**
 
-- ⛺️  Fun fact **I'm also a Photographer / YouTuber / CD Collector / Businessman**
+- ⛺️  Fun fact I'm also a **Photographer / YouTuber / CD Collector / Businessman**
 
 ### 🚀 Languages and Tools:
 
