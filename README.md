@@ -5,11 +5,11 @@
 
 - 💪🏼  I’m currently working on **Finding a new job**
 
-- 📚  I’m currently learning **Next.JS & Jest**
+- 📚  I’m currently learning **.Net Core**
 
-- 👓  I’m looking to collaborate on **OpenSource Front-End Projects**
+- 👓  I’m looking to collaborate on **OpenSource Full-Stack Projects**
 
-- ‍🙇🏼‍♂️  I'm looking for help with **AWS**
+- ‍🙇🏼‍♂️  I'm looking for help with **Azure**
 
 - 📧  How to reach me **oscar.shinan.teng@gmail.com**
 
