@@ -7,7 +7,7 @@
 
 - 📚  I’m currently learning **.Net Core**
 
-- 👓  I’m looking to collaborate on **OpenSource Full-Stack Projects**
+- 👓  I’m looking to collaborate on **Open Source Full-Stack Projects**
 
 - ‍🙇🏼‍♂️  I'm looking for help with **Azure**
 
