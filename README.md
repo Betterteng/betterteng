@@ -3,7 +3,7 @@
 
 ### 🧐 About Me 😎
 
-- 💪🏼  I’m currently working on **Finding a new job**
+- 💪🏼  I’m currently working for **IGNITE Online**
 
 - 📚  I’m currently learning **.Net Core**
 
