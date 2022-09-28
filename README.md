@@ -3,9 +3,9 @@
 
 ### 🧐 About Me 😎
 
-- 💪🏼  I’m currently working for **IGNITE Online**
+- 💪🏼  I’m currently working for **NAB**
 
-- 📚  I’m currently learning **.Net Core**
+- 📚  I’m currently learning **Micro Service and Kafka**
 
 - 👓  I’m looking to collaborate on **Open Source Full-Stack Projects**
 
